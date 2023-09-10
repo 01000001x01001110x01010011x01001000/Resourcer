@@ -2,41 +2,71 @@ List<Map<String, dynamic>> websites = [
   {
     "name": "unsplash",
     "url": "https://unsplash.com/",
+    "showInfo":false,
+    "desc" : "High Quality Stock free Images.",
+    "isFavourate" : false,
+  },
+  {
+    "name": "pexels",
+    "url": "https://www.pexels.com/",
+    "showInfo":false,
+    "desc" : "High Quality Stock free Images.",
+    "isFavourate" : false,
+  },
+  {
+    "name": "pikwizard",
+    "url": "https://pikwizard.com/",
+    "showInfo":false,
+    "desc" : "High Quality Stock free Images.",
+    "isFavourate" : false,
+  },
+  {
+    "name": "vecteezy",
+    "url": "https://www.vecteezy.com/free-photos",
+    "showInfo":false,
+    "desc" : "High Quality Stock free Images.",
+    "isFavourate" : false,
+  },
+  {
+    "name": "freerangestock",
+    "url": "https://freerangestock.com/",
+    "showInfo":false,
+    "desc" : "High Quality Stock free Images.",
+    "isFavourate" : false,
   },
   {
     "name": "unsplash",
     "url": "https://unsplash.com/",
+    "showInfo":false,
+    "desc" : "High Quality Stock free Images.",
+    "isFavourate" : false,
   },
   {
     "name": "unsplash",
     "url": "https://unsplash.com/",
+    "showInfo":false,
+    "desc" : "High Quality Stock free Images.",
+    "isFavourate" : false,
   },
   {
     "name": "unsplash",
     "url": "https://unsplash.com/",
+    "showInfo":false,
+    "desc" : "High Quality Stock free Images.",
+    "isFavourate" : false,
   },
   {
     "name": "unsplash",
     "url": "https://unsplash.com/",
+    "showInfo":false,
+    "desc" : "High Quality Stock free Images.",
+    "isFavourate" : false,
   },
   {
     "name": "unsplash",
     "url": "https://unsplash.com/",
-  },
-  {
-    "name": "unsplash",
-    "url": "https://unsplash.com/",
-  },
-  {
-    "name": "unsplash",
-    "url": "https://unsplash.com/",
-  },
-  {
-    "name": "unsplash",
-    "url": "https://unsplash.com/",
-  },
-  {
-    "name": "unsplash",
-    "url": "https://unsplash.com/",
+    "showInfo":false,
+    "desc" : "High Quality Stock free Images.",
+    "isFavourate" : false,
   }
 ];
